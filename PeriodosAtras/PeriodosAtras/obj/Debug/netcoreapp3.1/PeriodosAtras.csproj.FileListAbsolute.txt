@@ -1,0 +1,13 @@
+C:\Users\Cliente\source\repos\PeriodosAtras\PeriodosAtras\bin\Debug\netcoreapp3.1\PeriodosAtras.exe
+C:\Users\Cliente\source\repos\PeriodosAtras\PeriodosAtras\bin\Debug\netcoreapp3.1\PeriodosAtras.deps.json
+C:\Users\Cliente\source\repos\PeriodosAtras\PeriodosAtras\bin\Debug\netcoreapp3.1\PeriodosAtras.runtimeconfig.json
+C:\Users\Cliente\source\repos\PeriodosAtras\PeriodosAtras\bin\Debug\netcoreapp3.1\PeriodosAtras.runtimeconfig.dev.json
+C:\Users\Cliente\source\repos\PeriodosAtras\PeriodosAtras\bin\Debug\netcoreapp3.1\PeriodosAtras.dll
+C:\Users\Cliente\source\repos\PeriodosAtras\PeriodosAtras\bin\Debug\netcoreapp3.1\PeriodosAtras.pdb
+C:\Users\Cliente\source\repos\PeriodosAtras\PeriodosAtras\obj\Debug\netcoreapp3.1\PeriodosAtras.csprojAssemblyReference.cache
+C:\Users\Cliente\source\repos\PeriodosAtras\PeriodosAtras\obj\Debug\netcoreapp3.1\PeriodosAtras.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\PeriodosAtras\PeriodosAtras\obj\Debug\netcoreapp3.1\PeriodosAtras.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\PeriodosAtras\PeriodosAtras\obj\Debug\netcoreapp3.1\PeriodosAtras.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\PeriodosAtras\PeriodosAtras\obj\Debug\netcoreapp3.1\PeriodosAtras.dll
+C:\Users\Cliente\source\repos\PeriodosAtras\PeriodosAtras\obj\Debug\netcoreapp3.1\PeriodosAtras.pdb
+C:\Users\Cliente\source\repos\PeriodosAtras\PeriodosAtras\obj\Debug\netcoreapp3.1\PeriodosAtras.genruntimeconfig.cache
